@@ -1,0 +1,9 @@
+PyPDF2
+python-docx
+chromadb
+sentence_transformers
+google-generativeai
+pandas
+openpyxl
+pgvector 
+psycopg2-binary
